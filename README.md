@@ -1,5 +1,5 @@
 # TensorFlow Vision Transformer Implementation
-Implementation of the Vision Transformer algorithm in TensorFlow
+Implementation of the Vision Transformer algorithm in TensorFlow (**Credit**: *Khalid Salama*).
 
 ### Transformers for Image Recognition at Scale
 
@@ -17,6 +17,6 @@ ViT divides an image into a grid of square patches. Each patch is flattened into
 
 ![vit-model](https://user-images.githubusercontent.com/58775072/152365769-dbfeedc6-1a99-49be-9e6b-44f52e972c6a.gif)
 
-### References
+### Paper Reference
 
-Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929.
+Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). **An image is worth 16x16 words: Transformers for image recognition at scale**. arXiv preprint arXiv:2010.11929.
